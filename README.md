@@ -1,6 +1,6 @@
 # Navigating-Apple
 
-These are the bookmarks used in the Navigating Apple session.
-All links are public facing websites and documents. 
-The 3rd parties listed are not endorsed by Apple or the team, just found to be interesting for people using Apple devices in an enterprise environment.
+These links are an overview of very useful links on the public facing webpages of Apple for enterprise and education admins. 
 
+The 3rd party links listed are found & provided by the community. 
+They are found to be interesting for people using Apple devices in an enterprise environment.
