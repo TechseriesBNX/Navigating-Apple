@@ -4,10 +4,14 @@ Navigating Apple is brought to you by the wider Apple Community. The contributor
 
 This bookmarks collection is an overview of very useful links on the public facing webpages of Apple for both enterprise and education admins. 
 
-The 3rd party links listed are found & provided by the community. 
-These can be tools, blogs and MDM's. Feel free to submit useful links so we can add them to the repository.
-
 This bookmarks file is updated regularly 
+
+## Contributing
+### You are familiar with Git?
+Just open a pull request, add the links you want to add and push. We will evaluate and merge
+
+### Not familiar with Git?
+Jump into the Issues section and create a new issue. Add the links you would like to see added to the bookmarks bar. Please refrain from adding commercial (referrer) links to the archive.
 
 ## Using this bookmarks file
 You can simply import the HTML file as bookmarks. 
